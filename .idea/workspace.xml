@@ -6,8 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="a2b35f6b-0158-40e4-ac28-9fad749970ed" name="Changes" comment="configurando rotas">
       <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/c129c76f-d7a1-4dac-ba42-ecec6232e459.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/c129c76f-d7a1-4dac-ba42-ecec6232e459.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/c129c76f-d7a1-4dac-ba42-ecec6232e459/storage_v2/_src_/schema/mysql.osA4Bg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/c129c76f-d7a1-4dac-ba42-ecec6232e459/storage_v2/_src_/schema/mysql.osA4Bg.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />

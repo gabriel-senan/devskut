@@ -8,7 +8,7 @@ class Config {
     const DB_HOST = 'localhost';
     const DB_DATABASE = 'devskut';
     CONST DB_USER = 'gabriel';
-    const DB_PASS = '123';
+    const DB_PASS = '';
 
     const ERROR_CONTROLLER = 'ErrorController';
     const DEFAULT_ACTION = 'index';
